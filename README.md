@@ -12,9 +12,9 @@
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Ved Prakash"
+        self.role = ["Data Scientist","Machine Learning Engineer","Software Engineer",]
+        self.language_spoken =  "en_US"
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
@@ -26,9 +26,9 @@ me.say_hi()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://zhenye-na.github.io/
-- Notes of AWS Solution Architecture - Associate: https://zhenye-na.github.io/aws-certs-cheatsheet/
-- [WIP] LeetCode Solutions & Notes: https://zhenye-na.github.io/leetcode/
+- Personal website and blog: TBD
+- Notes of AWS Solution Architecture - Associate: TBD
+- [WIP] LeetCode Solutions & Notes: TBD
 
 
 ## 🔧 Technologies & Tools
