@@ -1,40 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ved Prakash</h1>
-<h3 align="center">A software engineer from Singapore</h3>
+# 👋 Hi, I'm Ved Prakash
 
-## 💬 Ask me about
-- Backend web development (Python, Flask, Rest API )
-- Data Analytics and Visulaization
-- Deep Learning and Machine Learning
-- Cloud Architecture
-- Design Patterns
-- Gardening (Bonsai enthusiast :evergreen_tree:)
+🎯 **Senior Data Scientist** | AI/ML Enthusiast | **MLOps Expert** | Generative AI Explorer
 
-## 📅 Hobbies
-- Solve programming problems at Codeforces, UVa, LeetCode
-- Watch TV shows
-- Play videogames
-- etc...
+With **9 years** of experience in delivering cutting-edge machine learning solutions and leading AI initiatives across various sectors, I am passionate about building **AI-driven applications** that drive business growth and actionable insights.
 
+---
 
-## 📚 Learning
-- Platzi courses about Backend development Roadmap
+### 🧠 **What I Do**
+- 🤖 **Generative AI**: Extensive hands-on experience with models like **Llama, OpenAI**, and working with **LLMs** to build AI applications.
+- ⚙️ **MLOps**: Expertise in building and managing end-to-end machine learning pipelines with **Docker**, **Kubernetes**, **CI/CD**, and cloud platforms like **AWS**, **GCP**, and **Snowflake**.
+- 🧑‍💻 **AI/ML**: Strong skills in **Deep Learning**, **NLP**, **Recommender Systems**, and **Forecasting**. From model development to production deployment.
+- 🏗️ **Data Engineering**: Skilled in building robust, scalable data pipelines with **Airflow**, **MLflow**, and **PySpark**.
+- ☁️ **Cloud Computing**: Working with services like **AWS SageMaker**, **GCP Vertex-AI**, and **DataProc** to create scalable and efficient solutions.
 
-## 🎵 Spotify status
+---
 
-<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
-  <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
+### 💻 **Tech Stack**
+- 💡 **Languages**: Python, SQL, PySpark, PyTorch, TensorFlow
+- 📊 **Data Analysis & Visualization**: Power BI, Tableau, Exploratory Data Analysis, Statistical Modelling
+- 🔥 **Machine Learning**: Neural Networks, CNNs, Transformers, Clustering, Recommendation Systems
+- 🛠️ **Tools**: Docker, Kubernetes, Airflow, MLflow
+- 🌐 **Cloud Platforms**: AWS, GCP, Snowflake
+- 🔄 **Version Control**: GitHub, GitLab
 
-<!-- <div id = "some_issues">
-  <p>It is a little list of problems you can face while implementing this kind of stuff</p>
-  <ul id = "problem_list">
-    <li>
-      Github tend to cache anonymized URL, so you should visit this link if you have problem with image cache.
-      https://docs.github.com/es/github/authenticating-to-github/about-anonymized-image-urls
-    </li>
-    <li>
-      When you wrap your HTML in SVG/foreignObject maybe nothing show up. You can solve this issue visiting this link.
-      https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
-    </li>
-  </ul>
-</div> -->
+---
+
+### 🚀 **Current Focus**
+I’m actively exploring and building solutions around **Generative AI** and **LLMs**, integrating them into real-world applications that create meaningful business impact.
+
+---
+
+### 🌱 **Learning & Growth**
+I’m continuously learning and pushing the boundaries of **AI/ML**, focusing on creating seamless **MLOps** processes for rapid deployment, and exploring **new innovations** in Generative AI.
+
+---
+
+### 📫 **Let’s Connect**
+- [LinkedIn](https://www.linkedin.com/in/thevedprakash)
+- [GitHub](https://github.com/thevedprakash)
+- [Email](mailto:prakashved.sg@gmail.com)
